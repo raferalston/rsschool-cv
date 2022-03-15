@@ -28,3 +28,6 @@ Right now i want to find a regular programmer job, because my current project is
 - [x] Conception of CI/CD
 - [x] Redis (used with celery for scheduled operations) at beginner level    
 - [x] PHP (used for mailer and basic server) 
+
+# English
+Pre-intermediate
